@@ -1,6 +1,6 @@
 # Predicting an NBA Player's Position 
 ## Project Goal
- *The NBA is considered the most "positionless" major sport. The game has evolved to the point where 6'8" players could play any position, from guard to center. Can we use machine learning to predict an NBA player's position based on their in-game stats?*
+ *The NBA is considered the most "positionless" major sport. The game has evolved to the point where 6'8" players could play any position, from guard to center. Can machine learning be used to predict an NBA player's position based on their in-game stats?*
 
 ### Data
 > [NBA Player's Stats since 1950](https://www.kaggle.com/drgilermo/nba-players-stats)
