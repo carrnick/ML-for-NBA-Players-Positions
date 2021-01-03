@@ -28,7 +28,7 @@
 
 
 
-## All Plots
+## EDA Results
 *To zoom in, just click the plot*
 
 ![dist1](https://user-images.githubusercontent.com/70597605/103489207-b7682180-4de0-11eb-8fec-3b9f4c481102.png)
