@@ -9,8 +9,6 @@
 > - Pandas
 > - Numpy
 > - Sklearn
-> - Seaborn
-> - Geopandas
 
 ### Machine Learning Algorithms Used
 > - Decision Trees
