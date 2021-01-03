@@ -20,6 +20,9 @@
 
 
 ## Results
+*To see all code, plots, and data, click [here](https://github.com/carrnick/ML-for-NBA-Players-Positions/blob/main/all.pdf).*
+*To see all machine learning results, click [here](https://github.com/carrnick/ML-for-NBA-Players-Positions/blob/main/Machine%20Learning%20Results.md).*
+
 ![best_score](https://user-images.githubusercontent.com/70597605/103489443-9b657f80-4de2-11eb-9736-7f9e341f8c8a.png)
 > - *Decision Tree* : 79.21% accuracy
 >  - *Random Forest* : 91.34% accuracy 
@@ -28,7 +31,7 @@
 
 
 
-## EDA Results
+## EDA Plots
 *To zoom in, just click the plot*
 
 ![dist1](https://user-images.githubusercontent.com/70597605/103489207-b7682180-4de0-11eb-8fec-3b9f4c481102.png)
@@ -40,6 +43,9 @@
 
 - Distribution of height and weight by position
 ![dist4](https://user-images.githubusercontent.com/70597605/103489359-0cf0fe00-4de2-11eb-811e-f392bc847d51.png)
+
+>Frequency of 3PAr, TRB%, ORB%, and DRB% by position
 ![dist5](https://user-images.githubusercontent.com/70597605/103489361-0e222b00-4de2-11eb-8dff-c2bd7baab22d.png)
 
 
+> Most important features![kbest](https://user-images.githubusercontent.com/70597605/103489824-2778a680-4de5-11eb-93ea-8aac49117676.png)
