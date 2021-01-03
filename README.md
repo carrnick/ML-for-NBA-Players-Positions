@@ -20,7 +20,7 @@
 
 
 ## Results
-*To see all code, plots, and data, click [here](https://github.com/carrnick/ML-for-NBA-Players-Positions/blob/main/all.pdf).*
+*To see all code, plots, and data, click [here](https://github.com/carrnick/ML-for-NBA-Players-Positions/blob/main/all.pdf).*  
 *To see all machine learning results, click [here](https://github.com/carrnick/ML-for-NBA-Players-Positions/blob/main/Machine%20Learning%20Results.md).*
 
 ![best_score](https://user-images.githubusercontent.com/70597605/103489443-9b657f80-4de2-11eb-9736-7f9e341f8c8a.png)
